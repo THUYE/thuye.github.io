@@ -53,3 +53,5 @@ My research interest includes neural machine translation and computer vision. I 
 
 #  Mentorship
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+<span style="color: gray; font-size: 0.8em;">Copyright © Jiancheng Ye. 

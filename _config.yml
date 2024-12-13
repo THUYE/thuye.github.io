@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiarui Hai"
-description              : "computer audition, signal processing, music technology, generative models."
-repository               : "haidog-yaqub.github.io"
+title                    : "JY"
+description              : "Biomedical Informatics, Preventive Medicine, Cardiovascular Health, Implementation Science"
+repository               : "thuye.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Jiarui Hai | 海家瑞"
-  avatar           : "images/icon.jpg"
-  bio              : "诗酒趁年华 | Carpe Diem"
-  location         : "Baltimore"
+  name             : "AB"
+  avatar           : "images/apple-touch-icon.png"
+  bio              : "Weill Cornell Medicine, Cornell University"
+  location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=q6zeG8sAAAAJ&hl=en"
-  email            : "jhai2@jhu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=v8dQVvIAAAAJ&hl=en&oi=ao"
+  email            : "jiancheng.ye@u.northwestern.edu"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,25 +37,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "haidog-yaqub"
+  github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jiarui-hai-297663141"
-  dblp             :
-  orcid            :
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/xxxx"
   pinterest        :
-  soundcloud       : "higobeatz"
+  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "@JianchengYe"
   vine             :
-  weibo            : "182484522"
+  weibo            :
   xing             :
-  youtube          : "UCEGud3VRCtkkaQxxMgBJ1LA"
+  youtube          :
   wikipedia        :
 
 
@@ -65,12 +65,15 @@ include:
   - _pages
   - files
 exclude:
+  - docs
+  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - .github
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -88,8 +91,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - google_scholar_crawler
-  - github_myprofile_updater
 keep_files:
   - .git
   - .svn

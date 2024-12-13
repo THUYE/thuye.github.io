@@ -1,1 +1,1 @@
-https://thuye.github.io.github.io/
+https://thuye.github.io/

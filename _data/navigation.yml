@@ -15,8 +15,8 @@ main:
 #  - title: "Invited Talks"
 #    url: "/#invited-talks"
 
-   - title: "Experiences"
-     url: "/#experiences"
+  - title: "Experiences"
+    url: "/#experiences"
 
-   - title: "Mentorship"
-     url: "/#mentorship"
+  - title: "Mentorship"
+    url: "/#mentorship"

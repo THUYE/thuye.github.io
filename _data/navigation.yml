@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
-  - title: "Grants"
-    url: "/#-grants"
+  - title: "Grants and Fundings"
+    url: "/#grants"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
 
   - title: "Mentorship"
-    url: "/#-mentorship"
+    url: "/#mentorship"

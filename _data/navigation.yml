@@ -6,14 +6,17 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+#  - title: "Honors and Awards"
+#    url: "/#honors-and-awards"
 
   - title: "Grants and Fundings"
     url: "/#grants-and-fundings"
 
 #  - title: "Invited Talks"
 #    url: "/#invited-talks"
+
+  - title: "Experiences"
+    url: "/#experiences"
 
   - title: "Mentorship"
     url: "/#mentorship"

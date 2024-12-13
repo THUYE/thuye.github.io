@@ -1,1 +1,1 @@
-[https://haidog-yaqub.github.io/](https://haidog-yaqub.github.io/)
+https://thuye.github.io/

@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "JY"
-description              : "Biomedical Informatics, Preventive Medicine, Cardiovascular Health, Implementation Science"
+title                    : "Jiancheng Ye"
+description              : "Biomedical Informatics, Computational Approach, Implementation Science"
 repository               : "thuye.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "AB"
+  name             : "Jiancheng Ye, PhD"
   avatar           : "images/apple-touch-icon.png"
   bio              : "Weill Cornell Medicine, Cornell University"
   location         : 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0003-4143-8423"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

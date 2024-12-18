@@ -1,4 +1,4 @@
-# Publications
+# Selected Publications
 
 #### 2024
 - *2024* Community-Based Participatory Research and System Dynamics Modeling for Improving Retention in Hypertension Care \| **Jiancheng Ye**, XXX, XXX \| [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11350485/) [[page]](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2822869) 
